@@ -1,0 +1,37 @@
+labels
+    id
+    name
+
+types
+    id
+    name
+    
+phones
+    id
+    contact
+    type
+    number
+
+emails
+    id
+    contact
+    type
+    address
+
+addresses
+    id
+    contact
+    type
+    address
+
+contacts
+    id
+    first_name
+    last_name
+    label
+    
+appointments
+    id
+    contact
+    starts
+    ends
